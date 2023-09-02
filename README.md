@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 
-This Python script fetches the content of the Wikipedia page about "apple," analyzes the text, and provides a word frequency analysis. It's a simple example of web scraping and text analysis using libraries like `urllib`, `BeautifulSoup`, and `nltk`.
+This Python script fetches the content of the Wikipedia page about "Narendra Modi," analyzes the text, and provides a word frequency analysis. It's a simple example of web scraping and text analysis using libraries like `urllib`, `BeautifulSoup`, and `nltk`.
 
 ## Table of Contents
 
